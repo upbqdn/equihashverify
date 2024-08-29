@@ -11,10 +11,7 @@
         "type": "git",
         "url": "https://github.com/s-nomp/equihashverify"
     },
-    "keywords": [
-        "equihash",
-        "equihashverify"
-    ],
+    "keywords": ["equihash", "equihashverify"],
     "author": "s-nomp developers",
     "contributors": [
         "Alberto Garoffolo",
@@ -24,7 +21,6 @@
         "Coinblockers",
         "MilesManley",
         "s-nomp developers"
-
     ],
     "license": "MIT",
     "bugs": {
@@ -35,7 +31,7 @@
         "bindings": "*",
         "libsodium": "^0.7.3",
         "nan": "*",
-        "node-gyp": "9.3.1"
+        "node-gyp": "10.0.0"
     },
     "engines": {
         "node": ">=0.12"
